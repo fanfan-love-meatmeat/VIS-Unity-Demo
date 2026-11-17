@@ -1,0 +1,10 @@
+/Library/
+/Temp/
+/Logs/
+/UserSettings/
+/obj/
+/.vs/
+*.csproj
+*.sln
+/Assets/Scenes/Before_VIS_setup*.unity
+/Assets/Scenes/Before_VIS_setup*.unity.meta
